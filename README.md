@@ -15,5 +15,4 @@ https://community.meraki.com/t5/Developers-APIs/Anyway-to-get-License-History-wi
 ### Meraki Dashboard API - (To check endpoints & corresponding parameters)
 https://developer.cisco.com/meraki/api-v1/
 
-#### Post a comment in case of anything.
-#### Thanks for visiting. Happy learning.
+#### Post a comment in case of anything.Thanks for visiting. Happy learning.
