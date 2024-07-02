@@ -1,4 +1,4 @@
-# Use this script as per the need. At present, it is monitoring Meraki Dashboard for some of the functionalities/end-points.
+[//]: # Use this script as per the need. At present, it is monitoring Meraki Dashboard for some of the functionalities/end-points.
 # Perform tests as per your need or schedule using this to monitor your network e.g. device-status, uplink-status, vpn-status, license reminder.
 # For now, this script was integrated & checked with GMAIL, in case of any device-status, uplink flap, an email was triggered to notify change in the network topology.
 
