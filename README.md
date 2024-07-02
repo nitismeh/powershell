@@ -4,7 +4,7 @@
 # For now, this script was integrated & checked with GMAIL, in case of any device-status, uplink flap, an email was triggered to notify change in the network topology.
 -->
 
-# References:
+<sub> # References: </sub>
 
 # For Gmail Setup
 https://techexpert.tips/powershell/powershell-send-email-gmail/
